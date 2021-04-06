@@ -1,6 +1,8 @@
 [
   {
+    "id": 1,
     "name": "Dr. John Doe",
+    "gender": "m",
     "org": "Kings London Hospital",
     "availibility": {
       "sun": "10:00 AM - 06:00 PM",
@@ -9,7 +11,9 @@
     "visitDurationInMin": 15
   },
   {
+    "id": 2,
     "name": "Dr. Mary Ellis",
+    "gender": "f",
     "org": "ABC Hospital",
     "availibility": {
       "sun": "10:00 AM - 06:00 PM",
